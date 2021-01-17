@@ -19,6 +19,7 @@ p {
   max-width: 700px;
   margin: 0 auto;
   margin-top: 40px;
+  margin-bottom: 40px;
   padding: 25px 35px;
 }
 .temperature {
@@ -49,6 +50,6 @@ p {
   font: bold;
 }
 
-.myName {
-  display: inline;
+.codedBy {
+  display: block;
 }
