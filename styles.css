@@ -1,0 +1,50 @@
+h1 {
+  font-size: 60px;
+}
+h5 {
+  margin: 0 auto;
+}
+ul {
+  list-style: none;
+}
+p {
+  display: block;
+  text-align: center;
+}
+
+.container {
+  display: block;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  border-radius: 30px;
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 25px 35px;
+}
+.temperature {
+  text-align: center;
+  display: block;
+}
+.search-form {
+  padding: 30px;
+}
+
+.units-forest {
+  font-size: smaller;
+}
+
+.temperature {
+  text-align: center;
+  font-size: 50px;
+  font: bold;
+}
+.units {
+  font-size: 30px;
+}
+.col-2 {
+  text-align: center;
+}
+.temperature-forest {
+  font-size: 20px;
+  font: bold;
+}
